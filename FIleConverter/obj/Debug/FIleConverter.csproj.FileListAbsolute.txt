@@ -1,0 +1,10 @@
+D:\My Project\FIleConverter\FIleConverter\bin\Debug\FIleConverter.exe.config
+D:\My Project\FIleConverter\FIleConverter\bin\Debug\FIleConverter.exe
+D:\My Project\FIleConverter\FIleConverter\bin\Debug\FIleConverter.pdb
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.csprojAssemblyReference.cache
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.Properties.Resources.resources
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.csproj.GenerateResource.cache
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.csproj.CoreCompileInputs.cache
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.exe
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.pdb
+D:\My Project\FIleConverter\FIleConverter\obj\Debug\FIleConverter.Form1.resources
